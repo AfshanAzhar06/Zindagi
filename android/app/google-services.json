@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426258127319",
+    "project_id": "zindagi-c5cf1",
+    "storage_bucket": "zindagi-c5cf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426258127319:android:fe01122d6356c5d68b9392",
+        "android_client_info": {
+          "package_name": "com.example.bloodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7BHrCYJbdCaj00wxIA3roS8i3OIP3ZW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
